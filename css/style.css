@@ -35,3 +35,9 @@ html {
     font-size: 2rem;
     font-weight: bolder;
 }
+
+.grid > .cell.click {
+    border: 1px solid blue;
+    color: blue;
+    background-color: skyblue;
+}
